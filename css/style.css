@@ -36,10 +36,6 @@ button {
   display: block;
 }
 
-ul li {
-  list-style: none;
-}
-
 /*  Media Queries - Responsiveness */
 
 /* Small Desktops */
