@@ -40,6 +40,9 @@ h3 {
   font-size: 22px;
 }
 
+li {
+  font-size: 22px;
+}
 
 .conteudo {
   display: block;
@@ -90,5 +93,9 @@ h3 {
 
   h2 {
     font-size: 26px;
+  }
+
+  li {
+    font-size: 14px;
   }
 }
